@@ -1,16 +1,5 @@
 # assignment_1
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Untitled](https://github.com/Aymuos22/assignment_1/assets/126803243/56b6c4b7-dedf-4286-8b3b-bed97bac3cc6)
+![Untitled-1](https://github.com/Aymuos22/assignment_1/assets/126803243/c15c5d38-e95a-4f62-8493-42a6d6dd50ad)
